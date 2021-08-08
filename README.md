@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skomdra
+- 👋 Hi, I’m Draško Ivezić
 - 👀 I’m interested in real time digital film-making
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on short films and indie games
